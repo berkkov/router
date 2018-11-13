@@ -1,5 +1,5 @@
 # Router
-Contributors: Berk Meriç, Ipek Erdil, Busra Karkili, Emre Sarigedik, Goksu Ureten, Eti Food Co.
+Contributors: Berk MeriÃ§, Busra Karkili, Emre Sarigedik, Goksu Ureten, Ipek Erdil, Eti Food Co.
 Partly powered by Trafi
 
 A practical tool for:
